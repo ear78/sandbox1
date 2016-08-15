@@ -6,6 +6,8 @@ function something() {
 
 var something = "This is another edit";
 
+var string = "Another string";
+
 /*
 cd foldername
 cd ..
