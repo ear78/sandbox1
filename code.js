@@ -1,5 +1,9 @@
 var journal = ["dm13 rocks!!", "this is another"];
 
+function something() {
+  return blah;
+}
+
 /*
 cd foldername
 cd ..
