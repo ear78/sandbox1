@@ -4,6 +4,8 @@ function something() {
   return blah;
 }
 
+var something = "This is another edit";
+
 /*
 cd foldername
 cd ..
